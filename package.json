@@ -6,6 +6,6 @@
   "scripts": {
     "start": "node app.js"
   },
-  "author": "Your New Updated Name Here",
+  "author": "Updated Author Name",
   "license": "MIT"
 }
