@@ -1,19 +1,19 @@
 console.log('Welcome to the Remote Collaborator and thank you for joining!');
 
-// Chức năng kết nối nhà tuyển dụng và lao động tự do
+// Function to connect employers and freelancers
 function connectEmployersAndFreelancers() {
-    // Thực hiện logic kết nối
+    // Implement connection logic
 }
 
-// Chức năng quản lý dự án
+// Function to manage projects
 function manageProjects() {
-    // Thực hiện logic quản lý dự án
+    // Implement project management logic
 }
 
-// Chức năng đánh giá và phản hồi
+// Function for feedback and evaluation
 function feedbackSystem() {
-    // Thực hiện logic đánh giá
+    // Implement feedback logic
 }
 
-// Xuất các chức năng
+// Export functions
 module.exports = { connectEmployersAndFreelancers, manageProjects, feedbackSystem }; 
