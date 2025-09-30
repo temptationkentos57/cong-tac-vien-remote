@@ -10,6 +10,7 @@ function startApp() {
         console.log('Application started successfully.');
     } catch (error) {
         console.error('Error starting the application:', error);
+        console.error(error.stack);
     }
 }
 
