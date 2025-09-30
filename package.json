@@ -1,0 +1,11 @@
+{
+  "name": "cong-tac-vien-remote",
+  "version": "1.0.0",
+  "description": "Nền tảng kết nối giữa nhà tuyển dụng và lao động tự do",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "MIT"
+}
