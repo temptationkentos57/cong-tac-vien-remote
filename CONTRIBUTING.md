@@ -14,4 +14,4 @@ Cảm ơn bạn đã muốn tham gia vào dự án Cong Tác Viên Remote! Chún
 - Không có chỗ cho phân biệt đối xử hoặc quấy rối.
 - Hãy rõ ràng và cụ thể về những gì bạn muốn cải thiện.
 
-Chúng tôi rất mong muốn nhận được sự đóng góp của bạn!
+Chúng tôi rất mong nhận được sự đóng góp của bạn!
