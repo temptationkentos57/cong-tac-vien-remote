@@ -1,4 +1,4 @@
-console.log('Welcome to the Remote Collaborator and thank you for joining!');
+console.log('Welcome to the Remote Collaborator platform. Thank you for joining us!');
 
 // Function to connect employers and freelancers
 function connectEmployersAndFreelancers() {
