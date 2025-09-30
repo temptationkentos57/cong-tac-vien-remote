@@ -1,4 +1,4 @@
-console.log('Chào mừng bạn đến với Cong Tác Viên Remote và cảm ơn bạn đã tham gia!');
+console.log('Welcome to the Remote Collaborator and thank you for joining!');
 
 // Chức năng kết nối nhà tuyển dụng và lao động tự do
 function connectEmployersAndFreelancers() {
@@ -16,4 +16,4 @@ function feedbackSystem() {
 }
 
 // Xuất các chức năng
-module.exports = { connectEmployersAndFreelancers, manageProjects, feedbackSystem };
+module.exports = { connectEmployersAndFreelancers, manageProjects, feedbackSystem }; 
