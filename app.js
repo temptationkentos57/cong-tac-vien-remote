@@ -1,8 +1,8 @@
 const { connectEmployersAndFreelancers, manageProjects, feedbackSystem } = require('./index');
 
-// Khởi động ứng dụng
+// Start the application
 function startApp() {
-    console.log('Khởi động ứng dụng...');
+    console.log('Starting the application...');
     connectEmployersAndFreelancers();
     manageProjects();
     feedbackSystem();
